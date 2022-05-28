@@ -7,7 +7,7 @@
 <h4> I am... </h3>
 <ul>
   <li> Currently working on a personal website to act as a portfolio </li>
-  <li> Slowly updating my Github and LinkedIn to reflect my current abilities </li>   
+  <li> Slowly updating my <a href="https://github.com/mylesazriel">Github</a> and <a href="https://www.linkedin.com/in/myles-ragay/">LinkedIn</a> to reflect my current abilities </li>   
 </ul>
 
 <h4> I have... </h3>
