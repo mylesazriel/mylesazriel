@@ -1,7 +1,7 @@
 <h2 align="center"> Hello there 👋 </h2>
 
 <h4> I will be graduating from the University of York in July 2022 (predicted a First 🎉)  </h4>
-<h4> Aspiring front-end developer since picking it up in April 2022, constantly learning  </h4>
+<h4> Aspiring front-end developer since picking it up in April 2022, constantly learning 👨‍🎓  </h4>
 <h4> Oh, and I lifeguard 🏊‍♂️  </h4>
 
 <h4> I am... </h3>
