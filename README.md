@@ -10,6 +10,13 @@
   <li> Slowly updating my Github and LinkedIn to reflect my current abiliies </li>   
 </ul>
 
+<h4> I have... </h3>
+<ul>
+  <li> Achieved a First in my <a href="https://github.com/mylesazriel/prbx">Third Year Project</a>, carrying out data analysis on Twitch chat </li>
+  <li> Completed two summer internships at the University of York </li>
+  <li> Been a lifeguard since I was 16, any companies need a first aider? 😂 </li>
+</ul>
+
 <!--
 **mylesazriel/mylesazriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
