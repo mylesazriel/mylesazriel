@@ -2,7 +2,7 @@
 
 <h4> I will be graduating from the University of York in July 2022 (predicted a First 🎉)  </h4>
 <h4> Aspiring front-end developer since picking it up in April 2022, constantly learning 👨‍🎓  </h4>
-<h4> Oh, and I lifeguard 🏊‍♂️  </h4>
+<h4> Oh, and I game 👾  </h4>
 
 <h4> I am... </h3>
 <ul>
@@ -14,7 +14,7 @@
 <ul>
   <li> Achieved a First in my <a href="https://github.com/mylesazriel/prbx">Third Year Project</a>, carrying out data analysis on Twitch chat </li>
   <li> Completed two summer internships at the University of York </li>
-  <li> Been a lifeguard since I was 16, any companies need a first aider? 😂 </li>
+  <li> Been a lifeguard since I was 16 🏊‍♂️ </li>
 </ul>
 
 <!--
