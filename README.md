@@ -1,6 +1,14 @@
-### Hi there 👋
+<h2 align="center"> Hello there 👋 </h2>
 
-does this work?
+<h4> I will be graduating from the University of York in July 2022 (predicted a First 🎉)  </h4>
+<h4> Aspiring front-end developer since picking it up in April 2022, constantly learning  </h4>
+<h4> Oh, and I lifeguard 🏊‍♂️  </h4>
+
+<h4> I am... </h3>
+<ul>
+  <li> Currently working on a personal website to act as a portfolio </li>
+  <li> Slowly updating my Github and LinkedIn to reflect my current abiliies </li>   
+</ul>
 
 <!--
 **mylesazriel/mylesazriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
